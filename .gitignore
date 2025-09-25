@@ -1,0 +1,7 @@
+*.idea
+*.vscode
+*.env
+bookstack/config
+bookstack/db
+bookstack/logs
+
